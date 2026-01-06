@@ -1,8 +1,6 @@
 
   # Periodic Table App UI Design
-
-  This is a code bundle for Periodic Table App UI Design. The original project is available at https://www.figma.com/design/3NXgKEBUtXnOhhBO8ueBEJ/Periodic-Table-App-UI-Design.
-
+  
   ## Running the code
 
   Run `npm i` to install the dependencies.
